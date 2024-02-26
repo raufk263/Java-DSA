@@ -1,4 +1,4 @@
-
+//Two pointer approach, where we take two pointers as start and end.where start is initilized with starting index and end is initiliazed with last index.
 
 class test{
     public static void main(String[] args) {
